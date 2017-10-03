@@ -49,3 +49,10 @@ main{
 	margin-left: 5px;
 }
 
+.circle-j{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+
