@@ -38,3 +38,14 @@ main{
 	size: 20px;
 }
 
+.sobre{
+	padding-top: 40px;
+}
+
+.paleta {
+	width: 4px;
+	height: 70px;
+	align-self: center;
+	margin-left: 5px;
+}
+
