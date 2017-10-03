@@ -1,5 +1,5 @@
 main{
-	padding-left: 0px;
+	padding-left: 200px;
 }
 
 .apresent {
@@ -44,7 +44,7 @@ main{
 
 .paleta {
 	width: 4px;
-	height: 70px;
+	height: 110px;
 	align-self: center;
 	margin-left: 5px;
 }
@@ -54,5 +54,24 @@ main{
 	height: 150px;
 	border-radius: 50%;
 }
+
+.ano, .empresa, .local, .cargo {
+	margin: 0px;
+	padding: 0px;
+}
+
+.empresa {
+	font-size: 24px;
+}
+
+.cargo {
+	font-size: 20px;
+	margin-top: -7px;
+}
+
+
+
+
+
 
 
