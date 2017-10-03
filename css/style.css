@@ -1,3 +1,40 @@
 main{
-	padding-left: 230px;
+	padding-left: 200px;
 }
+
+.apresent {
+	padding: 1px;
+	margin: 0px;
+}
+
+.conteudo1 {
+	margin: 0px;
+	margin-top: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+.side-nav{
+	background: url(../img/sidebar-nav-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;
+}
+
+.topo{
+	background: url(../img/header-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;	
+    padding-bottom: 8%;
+}
+
+.titulo{
+	margin-top: 14%;
+}
+
+.under{
+	size: 20px;
+}
+
