@@ -35,11 +35,27 @@ $(document).ready(function($) {
 		$('html,body').animate({scrollTop:$(this.hash).offset().top}, 800);
 	});
 
-	$('.cursos-anc').click(function(event) {
+	$('.curs-anc').click(function(event) {
 		$('.button-collapse').sideNav('hide');
 		event.preventDefault();
 		$('html,body').animate({scrollTop:$(this.hash).offset().top}, 800);
 	});
+
+	
+
+	$('.habili-anc').click(function(event) {
+		$('.button-collapse').sideNav('hide');
+		event.preventDefault();
+		$('html,body').animate({scrollTop:$(this.hash).offset().top}, 800);
+	});
+
+	$('.ativ-anc').click(function(event) {
+		$('.button-collapse').sideNav('hide');
+		event.preventDefault();
+		$('html,body').animate({scrollTop:$(this.hash).offset().top}, 800);
+	});
+
+
 
 	$(".progres").each(function() {
         var finalWidth = parseInt($(this).attr("aria-valuenow"));
